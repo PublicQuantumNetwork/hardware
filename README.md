@@ -1,9 +1,7 @@
 ## Introduction
-The Public Quantum Network offers a unique opportunity for non-experts to engage with quantum concepts through visual demonstrations of light behavior using a polarimeter setup. These systems introduce foundational ideas from quantum mechanics, such as superposition and polarization, through photonic devices that allow users to observe and interact with light propagation.
+The Public Quantum Network offers a unique opportunity for non-experts to engage with quantum concepts through hands-on interaction with a quantum network. The tactile interface for doing so is a polarimeter setup that provides visual demonstrations of light behavior. The polarimeter introduces the concepts of polarization and quantum superposition by allowing users to observe and interact with the polarization of light.
 
-For a more tactile and customizable experience, individuals could purchase photonic components and construct their own optical systems. Yet, the high cost of these instruments—often ranging from several hundred to several thousand dollars—creates a significant financial barrier to public engagement.
-
-To address this challenge, we propose an inexpensive, accessible alternative: a modular optical setup built using 3D-printed components and affordable optics. This approach replicates the same visual effects of standard photonic systems at a fraction of the cost and is intended for use at various nodes within the PQN project.
+The high cost of these instruments—often ranging from several hundred to several thousand dollars—creates a significant financial barrier to public engagement. To address this challenge, we have developed an inexpensive, accessible alternative: a modular optical setup built using 3D-printed components and affordable optics. This approach replicates the same visual effects of lab-grade systems at a fraction of the cost and is intended for use at various nodes within the PQN project.
 
 In this repository, both STL files and CAD files for the 3D-print design will be uploaded so that users can directly implement our setup or change it to their preferred dimensions. Links to the optics purchased are also uploaded.
 
@@ -92,3 +90,4 @@ In this section, a step-by-step explanation on how to equip the optomechanics is
    The mounts will have a hole that will allow you to connect to the post when applied enough pressure.<br>
    *Works with any mount
 </p>
+
